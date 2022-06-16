@@ -1,0 +1,12 @@
+.icon-green {
+    color:rgb(0, 255, 0);
+}
+
+.icon-red {
+    color:rgb(255, 0, 0);
+}
+
+.button-padder{
+    margin-left: 4px;
+    margin-right: 4px;
+}
