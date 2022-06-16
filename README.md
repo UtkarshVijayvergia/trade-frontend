@@ -14,7 +14,7 @@ Clone the repo
    npm i
    ```
 
-- Start the server
+- Start the client
    ```sh
    npm start
    ```
